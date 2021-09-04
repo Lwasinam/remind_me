@@ -4,7 +4,7 @@ Reminder app built with flutter
 
 ## Getting Started
 
-This is basically a  task reminder app buitl with flutter. 
+This is basically a  task reminder app built with flutter. 
 
 A few resources used were:
 
