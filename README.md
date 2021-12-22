@@ -2,9 +2,9 @@
 
 Reminder app built with flutter
 
-## Getting Started
+## Description
 
-This is basically a  task reminder app built with flutter. 
+This is a task reminder app built with neat UI in mind and proper state management. You basically type in your task with a reminder time and it will remind you with a simple notification
 
 A few resources used were:
 
