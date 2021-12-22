@@ -1,4 +1,4 @@
-# remind_me
+# Remind_me
 
 Reminder app built with flutter
 
